@@ -4,8 +4,8 @@
 	<artifactId>hw0-yingshen</artifactId>
 	<version>0.0.9-SNAPSHOT</version>
 	<scm>
-		<connection>scm:git:git@github.com:yingsheng/hw0-yingshen.git</connection>
-		<developerConnection>scm:git:git@github.com:yingsheng/hw0-yingshen.git</developerConnection>
+		<connection>scm:git:git//github.com:yingsheng/hw0-yingshen.git</connection>
+		<developerConnection>scm:git:git//github.com:yingsheng/hw0-yingshen.git</developerConnection>
 	</scm>
 	<repositories><repository>
     <id>deployment</id>
